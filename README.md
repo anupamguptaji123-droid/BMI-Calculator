@@ -67,9 +67,7 @@ It helps users understand whether they are:
 
 ### Live Demo
 
-🔗 **https://your-live-demo-link.vercel.app**
-
-Replace the link above with your deployed project URL.
+🔗 **https://bmi-calculator-livid-theta.vercel.app/
 
 
 # 🛠 Tech Stack
@@ -260,7 +258,7 @@ If you like this project, please give it a ⭐ on GitHub.
 
 # 👨‍💻 Developer
 
-## Anupam Gupta
+## Anupam kumari
 
 Made with ❤️ using React.js
 
