@@ -39,7 +39,7 @@ It helps users understand whether they are:
 - 🔵 Underweight
 - 🟢 Normal Weight
 - 🟠 Overweight
-- 🔴 Obese
+- 🔴 Obese 
 
 
 # ✨ Features
