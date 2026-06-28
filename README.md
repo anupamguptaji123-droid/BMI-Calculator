@@ -3,7 +3,7 @@
 
 # 🧮 BMI Calculator
 
-### 📏 Calculate Your Body Mass Index Quickly & Easily
+### 📏 Calculate Your Body Mass Index Quickly & Easily 
 
 <p align="center">
 
